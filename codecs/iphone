@@ -1,0 +1,25 @@
+#
+# IPHONE Codec Config
+#
+format=mp4
+vcodec=ngtcx264
+acodec=libfaac
+threads=0
+#
+profile=baseline
+#
+w=480
+h=0
+#
+bframes=0
+refs=3
+#
+bitrate=645000
+minrate=0
+maxrate=768000
+bufsize=4096000
+#
+cabac=0
+#
+weightp=0
+

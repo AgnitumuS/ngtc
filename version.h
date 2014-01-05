@@ -1,0 +1,6 @@
+#define NGTC_VERSION "v012 r512 [80bf5bd]"
+#define NGTC_NUMBER_VERSION "012.512 [80bf5bd]"
+#define SYSTEM_VERSION "Linux digit 2.6.35-22-generic #35-Ubuntu SMP Sat Oct 16 20:45:36 UTC 2010 x86_64 GNU/Linux"
+#define BUILD_DATE "Tue Dec 14 18:33:49 CST 2010"
+#define MACHINE "x86_64"
+#define OS "Linux"
